@@ -143,6 +143,7 @@ document.getElementById('menu-personajes').addEventListener('click', () => {
   casas.classList.add('ocultar');
   rol.classList.add('ocultar');
   personajes.classList.remove('ocultar');
+  document.querySelector('#modalP').classList.add('ocultar');
   document.querySelector('.filtrar-personajes').reset();
   divTodosP.innerHTML = pintado(ordenado(POTTER), 'image', 'name', '');
   datos = POTTER;
