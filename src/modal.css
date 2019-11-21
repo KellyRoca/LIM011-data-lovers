@@ -291,7 +291,7 @@
         text-align: center;
         margin-left: 18px;
         font-family: "HARRYP__";
-        font-size: 30pt;
+        font-size: 50pt;
         font-weight: 100;
         color: rgb(30, 30, 30);
         text-shadow: 1px 1px 1px rgba(59, 59, 59, 0.37);
@@ -302,6 +302,9 @@
         color: black;
         text-align: end;
         font-size: 20px;
+        position: absolute;
+        top: 0;
+        right: 0;
         /* background-color: white;
         border-radius: 100px; */
     }
@@ -339,8 +342,9 @@
     .datos{
         outline: 1px solid white;
         padding: 5px;
-        width: 85%;
-        margin-bottom: 5px;
+        width: 45%;
+        height: 30%;
+        margin-bottom: 5%;
         background-color: white;
         opacity: 80%;
         border-radius: 10px;
