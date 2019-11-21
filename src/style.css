@@ -349,15 +349,15 @@ footer #footer{ /*div padre */
         border-radius: 10px;
         padding: 5px 0px;
     }
-
+    
     .imagen { /*imagenes*/
         display: inline-block;
         width: 100%;
-        height: 75%;
+        height: 80%;
         box-shadow: 5px 5px 10px rgba(77, 77, 77, 0.3);
-        margin-bottom: 10px;
+        margin-bottom: 8px;
+        /* border-radius: 20px; */
     }
-
     /* RESPONSIVE FOOTER */
     footer #footer{ 
     display: flex;
