@@ -93,22 +93,22 @@ y de equipo.
 - [x] Entender y reconocer por qué es importante el HTML semántico.
 - [X] Identificar y entender tipos de selectores en CSS.
 - [ ] Entender como funciona `flexbox` en CSS.
-- [x] Construir tu aplicación respetando el diseño planeado (maquetación).
+- [ ] Construir tu aplicación respetando el diseño planeado (maquetación).
 
 ### DOM
 
-- [x] Entender y reconocer los selectores del DOM (querySelector | querySelectorAll).
+- [ ] Entender y reconocer los selectores del DOM (querySelector | querySelectorAll).
 - [X] Manejar eventos del DOM. (addEventListener)
 - [ ] Manipular dinámicamente el DOM. (createElement, appendchild, innerHTML, value)
 
 ### Javascript
 
-- [x] Manipular arrays (`filter` | `map` | `sort` | `reduce`).
+- [ ] Manipular arrays (`filter` | `map` | `sort` | `reduce`).
 - [x] Manipular objects (key | value).
 - [x] Entender el uso de condicionales (`if-else` | `switch`).
 - [x] Entender el uso de bucles (`for` | `forEach`).
 - [ ] Entender la diferencia entre expression y statements.
-- [X] Utilizar funciones (parámetros | argumentos | valor de retorno).
+- [ ] Utilizar funciones (parámetros | argumentos | valor de retorno).
 - [ ] Entender la diferencia entre tipos de datos atómicos y estructurados.
 - [x] Utilizar ES Modules (`import` | `export`).
 
@@ -117,12 +117,12 @@ y de equipo.
 
 ### Git y GitHub
 - [x] Ejecutar comandos de git (`add` | `commit` | `pull` | `status` | `push`).
-- [x] Utilizar los repositorios de GitHub (`clone` | `fork` | gh-pages).
+- [ ] Utilizar los repositorios de GitHub (`clone` | `fork` | gh-pages).
 - [x] Colaborar en Github (pull requests).
 
 ### Buenas prácticas de desarrollo
 - [x] Organizar y dividir el código en módulos (Modularización).
-- [x] Utilizar identificadores descriptivos (Nomenclatura | Semántica).
+- [ ] Utilizar identificadores descriptivos (Nomenclatura | Semántica).
 - [x] Utilizar linter para seguir buenas prácticas (ESLINT).
 
 ## 4. Consideraciones generales
