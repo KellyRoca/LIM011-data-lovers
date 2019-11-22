@@ -28,8 +28,8 @@ const pintado = (dataPorCasa, p1, p2, p3) => {
               <p class="name">${extrae[p2]}</p>
               <p>${extrae[p3]}</p>
             </div>`;
-    }
-    if (p3 === '') {
+      // <img src="images/${extrae[p3]}.png"></img>
+    } else {
       templatePotter += `<div class="casas-card">
         <img id= "${extrae[p2]}" class="imagen" src= "${extrae[p1]}"/>
         <p class="name">${extrae[p2]}</p>
