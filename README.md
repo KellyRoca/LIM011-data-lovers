@@ -129,7 +129,7 @@ y de equipo.
 
 * Este proyecto se debe resolver en duplas.
 * El proyecto será entregado subiendo tu código a GitHub (`commit`/`push`) y la
-  interfaz será desplegada usando [GitHub Pages](https://pages.github.com/).
+  interfaz será desplegada usando [GitHub Pages].
 * Tiempo: toma como referencia 3 semanas.
 
 ## 5. Criterios de aceptación mínimos del proyecto
